@@ -13,7 +13,7 @@ Observational and reanalysis datasets are important to many areas of weather, cl
 There is significant overlap between the datasets required by researchers at the Bureau of Meteorology
 CSIRO and Australian universities, so there have been efforts over the years
 to establish and maintain a shared reference dataset collection at NCI.
-Some high profile datasets are actively managed as stand alone projects (e.g. ERA5 in project rt52, BARRA in zv2),
+Some high profile datasets are actively managed as stand alone projects (e.g. ERA5 in project rt52, AGCD in zv2, BARRA in ma05/cj37),
 but the most recent effort to maintain a broader reference dataset collection
 (project rr7, which was coordinated by NCI) has been inactivate for the past few years.
 During that period, the Computational Modelling Support (CMS) team at CLEX
